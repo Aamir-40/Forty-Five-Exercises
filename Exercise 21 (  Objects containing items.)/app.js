@@ -1,0 +1,7 @@
+"use strict";
+let book = {
+    Title: "The Hard Times",
+    Author: "<Charles Dickens>",
+    Yearofpublication: 1854
+};
+console.log(`Book Info: ${book.Title} by ${book.Author}, published in ${book.Yearofpublication}`);
