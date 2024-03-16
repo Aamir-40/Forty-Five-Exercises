@@ -6,3 +6,4 @@
 let guestList = [ "Aamir","Hamza", "Taha"];
 guestList.forEach(guest => console.log(`slam ${guest}, would you like to have dinner tonight ?`));
 
+
